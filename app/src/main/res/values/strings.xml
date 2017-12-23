@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="text_view">Films</string>
+    <string name="movies">Movies</string>
+    <string name="rate">Rate</string>
+    <string name="header">header</string>
+</resources>
